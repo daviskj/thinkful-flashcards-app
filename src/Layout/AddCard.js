@@ -59,7 +59,7 @@ function AddCard() {
             type="text"
             value={cardFront}
             placeholder="Add Front Text.."
-             required
+            required
            />
         </div>
         <div className="form-group">
@@ -72,7 +72,7 @@ function AddCard() {
             type="text"
             value={cardBack}
             placeholder="Add Back Text.."
-             required
+            required
           />
         </div>
         <Link to={`/decks/${deck.id}`} className="btn btn-secondary mb-2">
