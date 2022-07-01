@@ -38,7 +38,8 @@ When all cards are finished, a message is shown and the user is offered the oppo
 
 
 Not enough cards:<img width="500" 
-Studying a Deck with two or fewer cards should display a "Not enough cards" message and a button to add cards to the deck.
+Studying a Deck with two or fewer cards should display a Not enough cards message and a button to add cards to the deck.
+                      
 alt="68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7374726976652f696d6167652f75706c6f61642f775f313030302c685f313030302c635f6c696d69742f34666561396639356565643732316264323562623262646665386637306433662d6e6f742d656e6f7567682d63617264732e706e67" src="https://user-images.githubusercontent.com/98443655/176829196-7bcb91bc-40d4-402d-bc28-c23d37f77da3.png">
 
 Create Deck:
